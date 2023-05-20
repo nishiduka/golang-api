@@ -13,12 +13,10 @@ Below, contains the scripts to run.
 | run start | `CompileDaemon -command="./golang-api`"
 
 ## Libs
----
 - Gin Framework
 - Postgres
 
 ## Endpoints
----
 The file `postman_collection.json` contains all requests.
 
 - `GET /posts` # Get all posts.
